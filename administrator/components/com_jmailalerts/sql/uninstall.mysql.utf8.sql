@@ -1,0 +1,4 @@
+-- ;DROP TABLE IF EXISTS `#__jma_frequencies`;
+-- ;DROP TABLE IF EXISTS `#__jma_alerts`;
+-- ;DROP TABLE IF EXISTS `#__jma_subscribers`;
+-- ;DROP TABLE IF EXISTS `#__jma_old_sync_data`;
