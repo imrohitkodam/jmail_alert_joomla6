@@ -1,0 +1,2 @@
+# jmail_alert_joomla6
+jmail_alert_joomla6
